@@ -1,0 +1,21 @@
+{
+  "functions": {
+    "api/mcp.js": {
+      "maxDuration": 15
+    },
+    "api/mcp-links.js": {
+      "maxDuration": 10
+    }
+  },
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex"
+        }
+      ]
+    }
+  ]
+}

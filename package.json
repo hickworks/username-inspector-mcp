@@ -1,0 +1,33 @@
+{
+  "name": "username-inspector-mcp",
+  "version": "1.0.0",
+  "description": "Free MCP server: look up username availability on resale marketplaces and compare seller fees.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test \"test/*.test.js\""
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hickworks/username-inspector-mcp.git"
+  },
+  "homepage": "https://usernameinspector.com/mcp/",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "username-checker",
+    "reselling",
+    "ebay",
+    "poshmark",
+    "fee-calculator"
+  ],
+  "license": "MIT",
+  "author": "Matt Hickman",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "zod": "^4.6.5"
+  }
+}
