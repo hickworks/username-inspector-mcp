@@ -1,5 +1,7 @@
 # Username Inspector MCP server
 
+[![Tests](https://github.com/hickworks/username-inspector-mcp/actions/workflows/test.yml/badge.svg)](https://github.com/hickworks/username-inspector-mcp/actions/workflows/test.yml)
+
 A free [Model Context Protocol](https://modelcontextprotocol.io) server for people who sell on resale marketplaces. It lets an AI assistant:
 
 - look up whether a username or store name is free on eBay, eBay Store, Poshmark, Grailed, Vinted, Whatnot, Bonanza, Chairish, Depop, Etsy, Mercari, and Ruby Lane, and
