@@ -1,6 +1,6 @@
 # Username Inspector MCP server
 
-[![Tests](https://github.com/hickworks/username-inspector-mcp/actions/workflows/test.yml/badge.svg)](https://github.com/hickworks/username-inspector-mcp/actions/workflows/test.yml)
+[![Tests](https://github.com/hickworks/username-inspector-mcp/actions/workflows/test.yml/badge.svg)](https://github.com/hickworks/username-inspector-mcp/actions/workflows/test.yml) [![VerifyMCP trust score for Username Inspector](https://verifymcp.io/badge/com-usernameinspector-username-inspector/api-mcp.svg)](https://verifymcp.io/servers/com-usernameinspector-username-inspector/api-mcp)
 
 A free [Model Context Protocol](https://modelcontextprotocol.io) server for people who sell on resale marketplaces. It lets an AI assistant:
 
